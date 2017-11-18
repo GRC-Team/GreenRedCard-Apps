@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SplashScreenActivity" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RedCardActivity" />
+        <activity android:name=".GreenCardActivity"></activity>
     </application>
 
 </manifest>
