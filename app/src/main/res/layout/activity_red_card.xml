@@ -58,6 +58,7 @@
                     android:id="@+id/red_card_date"
                     android:layout_width="match_parent"
                     android:layout_height="42dp"
+                    android:gravity="center"
                     android:layout_marginTop="4dp"
                     android:background="@drawable/custom_edit_text"
                     android:inputType="text" />
@@ -81,6 +82,7 @@
                         android:id="@+id/red_card_time"
                         android:layout_width="0dp"
                         android:layout_height="42dp"
+                        android:gravity="center"
                         android:layout_marginLeft="8dp"
                         android:layout_marginTop="4dp"
                         android:layout_weight="2"
@@ -101,6 +103,7 @@
                         android:id="@+id/red_card_class"
                         android:layout_width="0dp"
                         android:layout_height="42dp"
+                        android:gravity="center"
                         android:layout_marginLeft="8dp"
                         android:layout_marginTop="4dp"
                         android:layout_weight="2"
@@ -122,6 +125,7 @@
                     android:id="@+id/red_card_name"
                     android:layout_width="match_parent"
                     android:layout_height="42dp"
+                    android:gravity="center"
                     android:layout_marginTop="4dp"
                     android:background="@drawable/custom_edit_text"
                     android:inputType="text" />
@@ -139,6 +143,7 @@
                     android:id="@+id/red_card_place"
                     android:layout_width="match_parent"
                     android:layout_height="42dp"
+                    android:gravity="center"
                     android:layout_marginTop="4dp"
                     android:background="@drawable/custom_edit_text"
                     android:inputType="text" />
@@ -156,6 +161,7 @@
                     android:id="@+id/red_card_offense"
                     android:layout_width="match_parent"
                     android:layout_height="84dp"
+                    android:gravity="center"
                     android:layout_marginTop="4dp"
                     android:background="@drawable/custom_edit_text"
                     android:inputType="text" />
